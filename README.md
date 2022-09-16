@@ -1,7 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
-
 <div align = "center">
-
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
+ 
 <br/>
 <h3>Hello World!</h3>
 Hello, I'm ByeungHee
